@@ -21,7 +21,7 @@ table th:nth-of-type(4) {
 
 # Learning
 
-Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better service delivery through digital government. 
+Our team creates and offers learning programs to support agencies to build the structures and competencies that enable better digital service delivery.
 
 The methods and tools used for delivery at the lab are largely new to to the BC Public Service, but have been used with success in other governments and sectors. We apply a specific approach, called Agile, to foster high performing teams that focus and deliver products in short time frames through iterative development. We also expect continuous service improvement and new approaches to technology including DevOps practices.
 
@@ -29,11 +29,13 @@ The language and culture that has developed around these approaches is new and c
 * [Check out some of our favourite online resources.](https://bcgov.github.io/ExchangeLabOps/Lab-Learning-Programs/Learning-Links.html)
 * [Learn about the application of Agile in the BC Public Service.](https://bcgov.github.io/ExchangeLabOps/Agile-in-the-BCPS/readme.html)
 
-All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. In particular, we offer the following:
+All of the programs at the Exchange Lab are designed to facilitate learning this new way of working. Check out [sign up to our newsletter](https://eepurl.com/gCpvVP "BCDevExchange Mailing List Sign Up") to get prompted to learn about our latest training, webinar
 
-## Current Lab Training Offerings
 
-To be notified when new training sessions are being offered, [sign up to our mailing list](https://eepurl.com/gCpvVP "BCDevExchange Mailing List Sign Up")
+
+## Training
+
+To be notified when new training sessions are being offered, 
 
 ### Agile Fundamentals
 
@@ -44,22 +46,16 @@ Course reading and watching resources can be found [Here](https://trello.com/b/1
     <tbody>
         <tr>
             <td><b>Who is it for?</b></td>
-            <td><b>When?</b></td>
-            <td><b>Who delivers it?</b></td>
+                        <td><b>Who delivers it?</b></td>
             <td><b>Who is required to enroll?</b></td>
         </tr>
         <tr>
             <td>BC Government employees and BC Government contractors</td>
-            <td>
-                <ul>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">April 28, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">May 20, 2020</a></li>
-                    <li><a href="https://www.eventbrite.ca/e/agile-fundamentals-tickets-85580350131" target="_blank">June 18, 2020</a></li>
-                </ul>
+                            </ul>
                 An online version is in progress for the above dates in response to Covid-19. Dates may be subject to change due to the availability of trainers and government priorities.
             </td>
             <td>Internal government employees (typically Scrum Masters)</td>
-            <td>New teams entering the Exchange Lab</td>
+            <td>New teams entering the Exchange Lab. Priority given to anyone in the BCPS joining an Agile product team.</td>
         </tr>
     </tbody>
 </table>
